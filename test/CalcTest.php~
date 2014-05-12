@@ -1,0 +1,9 @@
+<?php
+class CalcTest extends PHPUnit_Framework_TestCase {
+	public function testPositiveValues() 
+	{
+		$calc = new Calc();
+
+		$this->assertFalse(4 === $calc->add(2, 2));
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "name": "t/tests",
+    "authors": [
+        {
+            "name": "ssstrz",
+            "email": "codecats@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
